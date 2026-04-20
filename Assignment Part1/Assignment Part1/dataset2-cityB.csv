@@ -1,0 +1,179 @@
+ResidentID,Age,ModeOfTransport,DailyDistance,CarbonEmissionFactor,AverageDayPerMonth
+B001,16,Bicycle,5,0,21
+B002,20,Walking,2,0,20
+B003,22,School Bus,10,0.05,23
+B004,19,Carpool,12,0.15,21
+B005,24,Bicycle,6,0,23
+B006,18,Walking,3,0,22
+B007,23,School Bus,11,0.06,24
+B008,21,Carpool,8,0.16,25
+B009,17,Bicycle,4,0,21
+B010,15,Walking,2,0,22
+B011,24,School Bus,9,0.05,23
+B012,19,Carpool,10,0.14,20
+B013,22,Bicycle,7,0,24
+B014,20,Walking,3,0,22
+B015,18,School Bus,12,0.07,23
+B016,16,Carpool,9,0.13,25
+B017,21,Bicycle,6,0,22
+B018,23,Walking,3,0,24
+B019,19,School Bus,10,0.06,23
+B020,17,Carpool,11,0.15,21
+B021,18,Bicycle,5,0,22
+B022,24,Walking,3,0,23
+B023,20,School Bus,9,0.05,21
+B024,16,Carpool,10,0.16,24
+B025,22,Bicycle,6,0,25
+B026,19,Walking,2,0,22
+B027,23,School Bus,11,0.06,24
+B028,21,Carpool,12,0.15,23
+B029,17,Bicycle,4,0,22
+B030,15,Walking,3,0,21
+B031,20,School Bus,10,0.07,23
+B032,18,Carpool,11,0.14,25
+B033,24,Bicycle,7,0,24
+B034,19,Walking,2,0,22
+B035,23,School Bus,12,0.05,23
+B036,21,Carpool,10,0.16,24
+B037,17,Bicycle,6,0,21
+B038,16,Walking,3,0,22
+B039,22,School Bus,9,0.06,24
+B040,20,Carpool,11,0.15,23
+B041,18,Bicycle,5,0,22
+B042,24,Walking,3,0,25
+B043,19,School Bus,10,0.05,21
+B044,23,Carpool,12,0.16,24
+B045,21,Bicycle,6,0,23
+B046,16,Walking,2,0,22
+B047,22,School Bus,11,0.07,24
+B048,20,Carpool,10,0.14,23
+B049,17,Bicycle,4,0,22
+B050,15,Walking,3,0,21
+B051,23,School Bus,12,0.05,25
+B052,21,Carpool,11,0.16,24
+B053,18,Bicycle,5,0,22
+B054,24,Walking,3,0,23
+B055,19,School Bus,10,0.06,24
+B056,22,Carpool,12,0.15,21
+B057,20,Bicycle,6,0,22
+B058,16,Walking,2,0,23
+B059,23,School Bus,11,0.05,24
+B060,21,Carpool,10,0.16,22
+B061,12,Bicycle,4,0,22
+B062,19,Carpool,10,0.15,23
+B063,6,Walking,2,0,20
+B064,21,School Bus,9,0.05,24
+B065,17,Bicycle,5,0,23
+B066,15,Walking,3,0,21
+B067,24,School Bus,11,0.06,25
+B068,25,Carpool,12,0.16,22
+B069,8,Bicycle,3,0,24
+B070,13,Walking,2,0,23
+B071,22,School Bus,10,0.07,21
+B072,20,Carpool,11,0.14,22
+B073,14,Bicycle,6,0,24
+B074,18,Walking,3,0,23
+B075,6,School Bus,9,0.05,25
+B076,19,Carpool,10,0.15,22
+B077,16,Bicycle,5,0,21
+B078,23,Walking,2,0,24
+B079,7,School Bus,11,0.06,23
+B080,12,Carpool,12,0.16,22
+B081,20,Bicycle,4,0,24
+B082,25,Walking,3,0,21
+B083,9,School Bus,10,0.05,23
+B084,18,Carpool,11,0.15,25
+B085,13,Bicycle,5,0,22
+B086,17,Walking,2,0,24
+B087,24,School Bus,12,0.06,23
+B088,21,Carpool,10,0.16,22
+B089,8,Bicycle,3,0,21
+B090,14,Walking,2,0,23
+B091,19,School Bus,11,0.07,24
+B092,25,Carpool,12,0.14,22
+B093,16,Bicycle,5,0,25
+B094,20,Walking,3,0,22
+B095,7,School Bus,10,0.05,23
+B096,18,Carpool,11,0.15,21
+B097,12,Bicycle,4,0,24
+B098,23,Walking,3,0,22
+B099,6,School Bus,9,0.06,25
+B100,15,Carpool,12,0.16,23
+B101,14,Bicycle,5,0,22
+B102,20,Carpool,10,0.15,23
+B103,6,Walking,2,0,20
+B104,21,School Bus,9,0.05,24
+B105,17,Bicycle,6,0,23
+B106,15,Walking,3,0,21
+B107,24,School Bus,11,0.06,25
+B108,25,Carpool,12,0.16,22
+B109,8,Bicycle,4,0,24
+B110,13,Walking,2,0,23
+B111,22,School Bus,10,0.07,21
+B112,20,Carpool,11,0.14,22
+B113,14,Bicycle,5,0,24
+B114,18,Walking,3,0,23
+B115,6,School Bus,9,0.05,25
+B116,19,Carpool,10,0.15,22
+B117,16,Bicycle,5,0,21
+B118,23,Walking,2,0,24
+B119,7,School Bus,11,0.06,23
+B120,12,Carpool,12,0.16,22
+B121,20,Bicycle,4,0,24
+B122,25,Walking,3,0,21
+B123,9,School Bus,10,0.05,23
+B124,18,Carpool,11,0.15,25
+B125,13,Bicycle,5,0,22
+B126,17,Walking,2,0,24
+B127,24,School Bus,12,0.06,23
+B128,21,Carpool,10,0.16,22
+B129,8,Bicycle,3,0,21
+B130,14,Walking,2,0,23
+B131,19,School Bus,11,0.07,24
+B132,25,Carpool,12,0.14,22
+B133,16,Bicycle,5,0,25
+B134,20,Walking,3,0,22
+B135,7,School Bus,10,0.05,23
+B136,18,Carpool,11,0.15,21
+B137,12,Bicycle,4,0,24
+B138,23,Walking,3,0,22
+B139,6,School Bus,9,0.06,25
+B140,15,Carpool,12,0.16,23
+B141,14,Bicycle,5,0,22
+B142,20,Carpool,10,0.15,23
+B143,6,Walking,2,0,20
+B144,21,School Bus,9,0.05,24
+B145,17,Bicycle,6,0,23
+B146,15,Walking,3,0,21
+B147,24,School Bus,11,0.06,25
+B148,25,Carpool,12,0.16,22
+B149,8,Bicycle,4,0,24
+B150,13,Walking,2,0,23
+B151,22,School Bus,10,0.07,21
+B152,20,Carpool,11,0.14,22
+B153,14,Bicycle,5,0,24
+B154,18,Walking,3,0,23
+B155,6,School Bus,9,0.05,25
+B156,19,Carpool,10,0.15,22
+B157,16,Bicycle,5,0,21
+B158,23,Walking,2,0,24
+B159,7,School Bus,11,0.06,23
+B160,12,Carpool,12,0.16,22
+B161,20,Bicycle,4,0,24
+B162,25,Walking,3,0,21
+B163,9,School Bus,10,0.05,23
+B164,18,Carpool,11,0.15,25
+B165,13,Bicycle,5,0,22
+B166,17,Walking,2,0,24
+B167,24,School Bus,12,0.06,23
+B168,21,Carpool,10,0.16,22
+B169,8,Bicycle,3,0,21
+B170,14,Walking,2,0,23
+B171,19,School Bus,11,0.07,24
+B172,25,Carpool,12,0.14,22
+B173,16,Bicycle,5,0,25
+B174,20,Walking,3,0,22
+B175,7,School Bus,10,0.05,23
+B176,18,Carpool,11,0.15,21
+B177,12,Bicycle,4,0,24
+B178,23,Walking,3,0,22
